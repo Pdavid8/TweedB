@@ -1,0 +1,12 @@
+#zastita konekcije
+<Files ~ "\.(inc)$">
+order allow,deny
+deny from all
+</Files>
+ErrorDocument 400 Location: http://localhost/david/index.php?page=17
+ErrorDocument 401 Location: http://localhost/david/index.php?page=17
+ErrorDocument 403 Location: http://localhost/david/index.php?page=17
+ErrorDocument 404 Location: http://localhost/david/index.php?page=17
+ErrorDocument 500 Location: http://localhost/david/index.php?page=17
+ErrorDocument 502 Location: http://localhost/david/index.php?page=17
+ErrorDocument 504 Location: http://localhost/david/index.php?page=17

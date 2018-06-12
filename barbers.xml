@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<barbers>
+	<barber>
+		<fullName>John Stamos</fullName>
+		<image>app/images/meet-the-barbers/barber1.jpg</image>
+	</barber>
+	<barber>
+		<fullName>Bo Ryan</fullName>
+		<image>app/images/meet-the-barbers/barber2.jpg</image>
+	</barber>
+	<barber>
+		<fullName>Miguel Angel</fullName>
+		<image>app/images/meet-the-barbers/barber3.jpg</image>
+	</barber>
+	<barber>
+		<fullName>Elon Musk</fullName>
+		<image>app/images/meet-the-barbers/barber4.jpg</image>
+	</barber>
+	<barber>
+		<fullName>Mat Kearney</fullName>
+		<image>app/images/meet-the-barbers/barber5.jpg</image>
+	</barber>
+	<barber>
+		<fullName>Bruno Ganz</fullName>
+		<image>app/images/meet-the-barbers/barber6.jpg</image>
+	</barber>
+	<barber>
+		<fullName>Adrien Broner</fullName>
+		<image>app/images/meet-the-barbers/barber7.jpg</image>
+	</barber>
+	<barber>
+		<fullName>Jose Luis</fullName>
+		<image>app/images/meet-the-barbers/barber8.jpg</image>
+	</barber>
+</barbers>
